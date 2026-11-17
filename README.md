@@ -41,5 +41,5 @@ The program downloads the dataset automatically the first time it runs. Internet
 - Save the notebook after it has executed.
 - Include all six exported PNG images.
 - Zip the folder and upload it to your internship/college submission portal as instructed.
-<img width="1901" height="1007" alt="image" src="https://github.com/user-attachments/assets/960e4b61-101d-47e8-a564-2aa34209416a" />
+
 
