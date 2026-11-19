@@ -35,11 +35,3 @@ The program downloads the dataset automatically the first time it runs. Internet
 - `README.md` — project overview and execution instructions.
 - `visualizations/` — six chart images, generated after running the notebook.
 
-## Final checklist
-- Run all cells without errors.
-- Check chart titles, axes and outputs.
-- Save the notebook after it has executed.
-- Include all six exported PNG images.
-- Zip the folder and upload it to your internship/college submission portal as instructed.
-
-
